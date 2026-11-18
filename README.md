@@ -14,6 +14,12 @@ That is my referral link. Signing up through it does not reduce your own prize. 
 
 You can also use: https://make.fun/?ref=a0pz932n&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02
 
+## Quick start in 5 minutes
+
+1. Sign up through the link above and link a Solana wallet.
+2. Read one bounty page end to end, including its deadline, prize split, and entry fee if any.
+3. Pick a free bounty you can finish, get its kit, and grade your entry locally before you submit it.
+
 ## Run it
 
 This repository is a guide, not a program to run. Read it on GitHub:
